@@ -1,4 +1,4 @@
 class Foo
     def foo
     end
-endk
+end
