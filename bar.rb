@@ -1,4 +1,4 @@
-class Foo
-    def foo
+class Bar
+    def bar
     end
 end
